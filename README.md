@@ -1,3 +1,10 @@
+#REDUX_REVISIT
+Revisiting Redux Concepts
+
+__Tutorial:__ `TheNetNinja` Redux Tutorial (with Redux Toolkit)\
+[https://www.youtube.com/watch?v=iBUJVy8phqw&ab_channel=TheNetNinja](https://www.youtube.com/watch?v=iBUJVy8phqw&ab_channel=TheNetNinja)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
