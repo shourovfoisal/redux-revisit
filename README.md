@@ -1,8 +1,10 @@
 # REDUX_REVISIT
 Revisiting Redux Concepts
 
-__Tutorial:__ Redux Tutorial (with Redux Toolkit)`TheNetNinja`\
+__Tutorial:__ Redux Tutorial (with Redux Toolkit) `TheNetNinja`\
 [https://www.youtube.com/watch?v=iBUJVy8phqw&ab_channel=TheNetNinja](https://www.youtube.com/watch?v=iBUJVy8phqw&ab_channel=TheNetNinja)
+
+`--------------`
 
 
 ## Getting Started with Create React App
