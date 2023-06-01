@@ -3,7 +3,12 @@ import { createSlice } from "@reduxjs/toolkit";
 export const counterSlice = createSlice({
     name: "counter",
     initialState: {
-        count: 0
+        count: 0,
+        flightBookingSession: {
+            flightName: "",
+            bookingDate: "",
+            passengerName: ""
+        }
     },
     reducers: {
         increment: (state) => { state.count += 1 },
